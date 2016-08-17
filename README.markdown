@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/levent/retire.svg?branch=bump-rest-client)](https://travis-ci.org/levent/retire)
+
 Tire
 =========
 
